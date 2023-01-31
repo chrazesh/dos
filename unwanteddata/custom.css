@@ -1,0 +1,61 @@
+.InputStyle {
+    /* height: 22px; */
+    height: 28px;
+  }
+
+  .Language {
+    height: 28px;
+    outline: hidden;
+    border-color: transparent;
+    border-bottom: 4px dotted #a7a7a7;
+    /* border-top-style: hidden; */
+    background-color: #f2f2f2;
+  }
+
+  #ContainerStyle {
+
+    border-radius: 10px;
+  }
+
+  #rowStyle {
+    margin: 10px 10px 10px 10px;
+    padding: 10px;
+  }
+
+  .col {
+    padding: 5px;
+
+  }
+
+  label {
+    /* color: aqua;  */
+    font-size: small;
+    font-weight: 12px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .SpanStyle {
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    align-items: center;
+  }
+
+  #SewaDetails {
+    width: 97%;
+    height: 300px;
+    border: 2px solid black;
+    padding: 10px;
+
+  }
+
+  .YesNo {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .CheckBoxStyle {
+    display: flex;
+    flex-direction: row;
+    /* width: 12.5%; */
+  }
