@@ -123,5 +123,4 @@ CREATE TABLE `CurrentAddress` (
 );
 
 
--- varchar ko value (255) rakhni gara ani varchar (255) na gara varchar(255) gara bich ma space hunna ani comment use na gara yo page ma ok hun x sir thank you ssss
 
